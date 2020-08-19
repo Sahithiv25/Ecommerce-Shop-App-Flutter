@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1001536129640",
+    "firebase_url": "https://stacishopi.firebaseio.com",
+    "project_id": "stacishopi",
+    "storage_bucket": "stacishopi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001536129640:android:cd102fc830d3a2d1d7c9dd",
+        "android_client_info": {
+          "package_name": "com.example.myshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001536129640-o9ts218a1q3biec978flv2ii3rii4lvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKFf0xT5c2gfe8tO3WDq7Yg-qaxxgl-kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001536129640-o9ts218a1q3biec978flv2ii3rii4lvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
